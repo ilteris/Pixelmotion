@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'getEdgeVideo' target in the 'getEdgeVideo' project.
+//
+
+#include <Carbon/Carbon.h>
+#include <quicktime/quicktimecomponents.h>
